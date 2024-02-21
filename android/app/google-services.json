@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "551677370698",
+    "firebase_url": "https://blue-eye-soft-aefb5.firebaseio.com",
+    "project_id": "blue-eye-soft-aefb5",
+    "storage_bucket": "blue-eye-soft-aefb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:cd42201562ffc9435ba1b3",
+        "android_client_info": {
+          "package_name": "blueeyesoft.covidtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-l854vo16m94sus11jcl7f0hhoe12gpau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blueeyesoft.covidtestapp",
+            "certificate_hash": "8a9273975bc2137f63f0183a16cdbbabc9908591"
+          }
+        },
+        {
+          "client_id": "551677370698-erkd862m8a986b954d8je4413aaf1f3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blueeyesoft.covidtestapp",
+            "certificate_hash": "6dd5b9b14b50668d5dfcffde76168f2c889d2ba3"
+          }
+        },
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:1ec2275ede2d4ed75ba1b3",
+        "android_client_info": {
+          "package_name": "com.blueeyesoft.sakecblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-hinftqi0pt3i8cef7u4pptjsv8v49hoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueeyesoft.sakecblue",
+            "certificate_hash": "0a4d4cc5d2e7651e25169992daf27dd07da4a86d"
+          }
+        },
+        {
+          "client_id": "551677370698-vkp0s75metp4gfo7dbeb5f1rg7jpqp9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueeyesoft.sakecblue",
+            "certificate_hash": "e9ac7acc3fd11be6d874f547e42a69badf6f22c6"
+          }
+        },
+        {
+          "client_id": "551677370698-ee1q82gn17imc37np83lg0npqmt1b2io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueeyesoft.sakecblue",
+            "certificate_hash": "6dd5b9b14b50668d5dfcffde76168f2c889d2ba3"
+          }
+        },
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:442a9f5df5b19f305ba1b3",
+        "android_client_info": {
+          "package_name": "com.example.adminApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-27l20ocuqgohm3squitlpmvov3b691m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminApp",
+            "certificate_hash": "36c428d09365977e97c1bffa9ca1a553dab88b0d"
+          }
+        },
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:2f65f7a91877b7305ba1b3",
+        "android_client_info": {
+          "package_name": "com.example.blueeyesoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-cac1iee1mrm7sguj4n7rvqace0ii11oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blueeyesoft",
+            "certificate_hash": "36c428d09365977e97c1bffa9ca1a553dab88b0d"
+          }
+        },
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:b504d4ff7d3a7f4f5ba1b3",
+        "android_client_info": {
+          "package_name": "com.example.bluetooth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-kvqcsfo4i8pv20ojsam02s57mu3ehgem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluetooth_app",
+            "certificate_hash": "36c428d09365977e97c1bffa9ca1a553dab88b0d"
+          }
+        },
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677370698:android:aa7e3c12b3cffb785ba1b3",
+        "android_client_info": {
+          "package_name": "com.example.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZUqY0ed6aqB51qcLWmzl1WRRcE4JxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677370698-pq1psd4gb06hb3d3abboqci2uvgb8q52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
