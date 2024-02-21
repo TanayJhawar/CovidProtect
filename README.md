@@ -4,4 +4,3 @@ This project is build under the partnership of Shah & Anchor Kutchhi Engineering
 
 https://www.youtube.com/watch?v=EzoI_8mC7bg
 
-"# CovidProtect" 
